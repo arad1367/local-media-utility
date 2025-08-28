@@ -1,0 +1,11 @@
+gradio>=4.31.5
+Pillow>=10.4.0
+pikepdf>=9.0.0
+pypdf>=5.0.0
+openai-whisper>=20231117
+torch>=2.2.0
+soundfile>=0.12.1
+kokoro>=0.9.2
+yt-dlp>=2024.8.6
+ffmpeg-python>=0.2.0
+numpy>=1.26.0
