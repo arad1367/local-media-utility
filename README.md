@@ -52,10 +52,8 @@ All processing runs locally on your machine. Files never leave your system.
 .
 ├── app.py
 ├── requirements.txt
-├── Images/
-├── Files/
-├── Audios/
-└── Videos/
+├── README.md/
+
 ```
 
 Folders are auto-created on first run.
